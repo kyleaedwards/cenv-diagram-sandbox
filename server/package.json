@@ -1,0 +1,24 @@
+{
+  "name": "cenv-sock",
+  "version": "0.0.0",
+  "description": "Light websocket server for cEnv.",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:cenv-sock.git"
+  },
+  "keywords": [
+    "heroku",
+    "cenv"
+  ],
+  "author": "kyleaedwards",
+  "license": "BSD",
+  "dependencies": {
+    "logfmt": "~0.17.0",
+    "express": "~3.4.7"
+  },
+  "devDependencies": {}
+}
